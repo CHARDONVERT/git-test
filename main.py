@@ -29,3 +29,4 @@ g.add_edge(3, 3)
  
 print("DSF à partir du noeud 0 :")
 g.dfs(0)
+
