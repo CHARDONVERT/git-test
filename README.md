@@ -1,4 +1,4 @@
 
-# Test Git
+# Projet - Fusion conflictuelle
 
-Nous travaillons sur les branches de Git !
+Dans ce projet, on essaie de résoudre les problèmes de conflit.
